@@ -28,4 +28,4 @@ This project is built using the MVVM design pattern with SwiftUI, and it follows
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/projectname.git
+   git clone https://github.com/padam-ram/NomisoTest.git
